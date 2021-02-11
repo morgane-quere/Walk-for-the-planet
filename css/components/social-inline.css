@@ -1,0 +1,6 @@
+.social-inline > li {
+  list-style: none;
+  display: inline-block;
+  font-size: 30px;  
+  padding: 0px 10px;
+}

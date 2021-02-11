@@ -1,0 +1,13 @@
+.container {
+  width: 800px;
+  margin: 0 auto;  
+}
+
+.container > div {  
+  display: flex;
+  justify-content: space-between;
+}
+
+.container > h2 {
+  text-align: center;
+}
